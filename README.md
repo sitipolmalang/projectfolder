@@ -1,4 +1,5 @@
 latihan github collaboration
+firda
 
 salsa
 azam
@@ -11,3 +12,4 @@ rafi
 commit dari mona
 
 ajie
+
