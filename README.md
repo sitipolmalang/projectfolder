@@ -1,4 +1,4 @@
 # projectfolder
 latihan github collaboration
 
-ikqbal
+push dari ikqbal
